@@ -1,0 +1,19 @@
+{
+	"frequency" : "10000",
+	"providers": {
+        "allianz": {
+            "request_time" : 10000,
+            "max_consumers" : 30
+        }
+        ,
+        "bolivar": {
+            "request_time" : 30000,
+            "max_consumers" : 30
+        }
+        ,
+        "liberty": {
+            "request_time" : 800,
+            "max_consumers" : 30
+        }
+    }
+}

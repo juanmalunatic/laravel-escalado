@@ -1,0 +1,23 @@
+[
+    {
+        "name" : "type-1",
+        "consumers": {
+          "allianz" : 2,
+          "bolivar" : 2,
+          "liberty" : 2
+        }
+    },
+    {
+        "name" : "type-2",
+        "consumers": {
+            "allianz": 5
+        }
+    },
+    {
+        "name" : "type-3",
+        "consumers": {
+            "bolivar" : 4,
+            "liberty" : 4
+        }
+    }
+]
